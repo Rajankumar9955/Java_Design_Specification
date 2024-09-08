@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d92202ee-bbe9-4ed3-b1b3-76ecaf47804e" name="Changes" comment="Design Specifications">
-      <change afterPath="$PROJECT_DIR$/resources/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaReadWrite/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/specification3/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/specification3/RectagleShap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/specification4/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/specification4/car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Design_Specification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Design_Specification.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaReadWrite/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaReadWrite/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +52,25 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.design.specification4.MyMain">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rajan Kumar\OneDrive\Desktop\Java_Design_Specification\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JavaReadWrite.MyMain">
+    <configuration name="JavaReadWrite.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaReadWrite.MyMain" />
+      <module name="Java_Design_Specification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaReadWrite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="design.specification2.MyMain" />
       <module name="Java_Design_Specification" />
@@ -88,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaReadWrite.MyMain" />
         <item itemvalue="Application.design.specification4.MyMain" />
         <item itemvalue="Application.MyMain" />
       </list>

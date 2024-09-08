@@ -17,17 +17,16 @@ public class MyMain {
             {
                 data=fileReader.read();
                 char charater=(char)data;
-                Thread.sleep(5000);
-                System.out.println(charater);
+                Thread.sleep(200);
+                System.out.print(charater);
             }
 
-        }catch (IOException e)
-        {
+        }catch (IOException e) {
             System.out.println("IO Exception");
         }catch (InterruptedException e)
         {
             System.out.println("Intrupted Exception");
-        }catch ()
+        }
 
     }
 }
