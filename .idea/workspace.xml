@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d92202ee-bbe9-4ed3-b1b3-76ecaf47804e" name="Changes" comment="Design Specifications">
-      <change beforePath="$PROJECT_DIR$/src/JavaReadWrite/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaReadWrite/MyMain.java" afterDir="false" />
+    <list default="true" id="d92202ee-bbe9-4ed3-b1b3-76ecaf47804e" name="Changes" comment="Read and write">
+      <change afterPath="$PROJECT_DIR$/src/MultiThreadingDemo/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreadingDemo/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreadingDemo/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomGenerator/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logicalprogram/Array/CopyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logicalprogram/Array/isSameArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +63,20 @@
       <recent name="C:\Users\Rajan Kumar\OneDrive\Desktop\Java_Design_Specification\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaReadWrite.MyMain">
+  <component name="RunManager" selected="Application.isSameArray">
+    <configuration name="CopyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logicalprogram.Array.CopyArray" />
+      <module name="Java_Design_Specification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logicalprogram.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaReadWrite.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaReadWrite.MyMain" />
       <module name="Java_Design_Specification" />
@@ -71,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.specification2.MyMain" />
+    <configuration name="MultiThreadingDemo.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreadingDemo.MyMain" />
       <module name="Java_Design_Specification" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.specification2.*" />
+          <option name="PATTERN" value="MultiThreadingDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +103,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="design.specification4.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.specification4.MyMain" />
+    <configuration name="RandomGenerator.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomGenerator.MyMain" />
       <module name="Java_Design_Specification" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design.specification4.*" />
+          <option name="PATTERN" value="RandomGenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="isSameArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logicalprogram.Array.isSameArray" />
+      <module name="Java_Design_Specification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logicalprogram.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,9 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isSameArray" />
+        <item itemvalue="Application.CopyArray" />
+        <item itemvalue="Application.RandomGenerator.MyMain" />
+        <item itemvalue="Application.MultiThreadingDemo.MyMain" />
         <item itemvalue="Application.JavaReadWrite.MyMain" />
-        <item itemvalue="Application.design.specification4.MyMain" />
-        <item itemvalue="Application.MyMain" />
       </list>
     </recent_temporary>
   </component>
@@ -122,11 +156,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725694899440</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Read and write">
+      <option name="closed" value="true" />
+      <created>1725795286798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725795286798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Design Specifications" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design Specifications" />
+    <MESSAGE value="Read and write" />
+    <option name="LAST_COMMIT_MESSAGE" value="Read and write" />
   </component>
 </project>
